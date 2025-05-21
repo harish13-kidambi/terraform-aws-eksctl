@@ -33,3 +33,4 @@ Security Groups, when traffic is coming to EC2 instances, you should always chec
 
 
 
+![eksctl](https://github.com/user-attachments/assets/8574cd27-4f54-4555-948b-a10c77988b98)
