@@ -1,8 +1,11 @@
 Steps
+
 SSH-Keys
 
 First prepare your SSH key pair.
+
 Import public key AWS key pairs.
+
 WorkStation
 
 Create a security group that has all firewalls opened in Default VPC.
